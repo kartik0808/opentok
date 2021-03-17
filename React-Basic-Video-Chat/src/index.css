@@ -1,0 +1,16 @@
+body,
+html {
+  background-color: gray;
+}
+.OT_subscriber {
+  float: left;
+  margin-left: 1em;
+}
+.OT_publisher {
+  float: left;
+  width: 300px;
+  height: 300px;
+}
+.error {
+  color: red;
+}
